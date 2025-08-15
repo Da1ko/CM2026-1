@@ -1,4 +1,4 @@
-# CM2026-1
+# Computo Movil 2026-1
 
 - Facultad de Ingenieria - UNAM
 # Datos
