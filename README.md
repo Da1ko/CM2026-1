@@ -1,5 +1,5 @@
 # CM2026-1
-# Computo movil Semestre 2026-1
+
 - Facultad de Ingenieria - UNAM
 # Datos
 ```
