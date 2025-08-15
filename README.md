@@ -1,2 +1,19 @@
 # CM2026-1
-Repositorio para computo movil 
+# Computo movil Semestre 2026-1
+- Facultad de Ingenieria - UNAM
+# Datos
+```
+ALUMNO: SÁNCHEZ ALVIRDE ANDRÉS IVÁN
+```
+```
+NÚMERO DE CUENTA: 318247225
+```
+```
+GRUPO: 03
+```
+```
+SEMESTRE: 2026-1
+```
+```
+PROFESOR: ING. MARDUK PEREZ DE LARA DOMINGUEZ
+```
